@@ -2,14 +2,6 @@
  * A star search algorithm implemented for grid surface
  * @author Konrad Obal
  * @copyright Konrad Obal 2016
- *
- * Komentarze po angielsku, ponieważ po oddaniu projektu oraz późniejszej optymalizacji
- * chciałbym umieścić go na swoim githubie.
- * Na dokładniejszy opis niestety brakło mi czasu.
- * Pisane w standardzie C++11. Kontenery unordered_map oraz unordered_set
- * użyte, ze względu na swoją szybkość dostępu (~const) oraz w celu "ćwiczenia".
- * Kod wzorowany na pseudokodzie dostępnym tutaj: http://www.redblobgames.com/pathfinding/a-star/introduction.html
- *
  */
 
 #include <iostream>
